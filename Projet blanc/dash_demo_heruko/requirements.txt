@@ -1,5 +1,0 @@
-dash
-plotly
-gunicorn
-pandas
-numpy
